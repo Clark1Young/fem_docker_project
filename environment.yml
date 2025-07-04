@@ -1,0 +1,8 @@
+name: fem_env
+channels:
+  - conda-forge
+dependencies:
+  - cmake
+  - gxx_linux-64
+  - openmpi
+  - libgomp
